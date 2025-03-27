@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nomeUser": "MONICA",
+        "emailUser": "yuiyui@dfssd.sdsd",
+        "idadeUser": "545",
+        "origem": "aula de 20-03"
+    },
+    {
+        "id": 2,
+        "nomeUser": "Chico bento",
+        "emailUser": "chico@bento.comj",
+        "idadeUser": "547",
+        "origem": "aula de 20-03"
+    },
+    {
+        "id": 3,
+        "nomeUser": "Luffy",
+        "emailUser": "mentira@sogeking",
+        "idadeUser": "1-04",
+        "origem": "aula de 20-03"
+    }
+]
